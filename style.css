@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#container {
+    text-align: center;
+    min-height: 680px;
+}
+
+h1 {
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+#menu {
+    display: grid;
+    width: 800px;
+    height: 500px;
+    border: 8px solid white;
+    position: absolute;
+    top: 55vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    align-content:space-around;
+}
+
+li {
+    list-style: none;
+}
+
+button {
+    font-family: inherit;
+    color: inherit;
+    margin: 40px auto;
+    padding: 20px;
+    width: 460px;
+    font-size: 25px;  
+    border-bottom: 0px black;
+    border-top: 0px black;
+     background-color: black;
+}  
+
+button:hover {             
+    color: blue;
+    border-left: 15px solid white;
+    border-right: 15px solid white;
+    border-bottom: 0px black;
+    border-top: 0px black;
+}
+
+#pitch {
+    width: 800px;
+    height: 500px;
+    border: 8px solid white; 
+    cursor: none;
+    visibility: hidden;
+    position: absolute;
+    top: 55vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+}
+
+#score {
+    color: white;
+    margin-top: 10px;
+    visibility: hidden;
+}

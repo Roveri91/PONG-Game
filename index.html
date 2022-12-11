@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pong</title>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="container">
+        <h1>PONG</h1>
+        <div id="menu">
+            <ul>
+                <li><button id="easy" onclick="easymode()">EASY Level</button></li>
+                <li><button id="normal" onclick="normalmode()">NORMAL Level</button></li>
+                <li><button id="goat" onclick="goatmode()">GOAT Level</button></li>
+            </ul>    
+        </div>
+        <canvas id="pitch"></canvas>
+        <div id="score">0 : 0</div>    
+    </div>
+    
+</body>
+<script src="script.js"></script> 
+</html>

@@ -19,8 +19,8 @@ P.S. GOAT LEVEL is practically impossible :)
 ---
 
 ![Screenshot 2023-09-26 161345](https://github.com/Roveri91/PONG-Game/assets/105217392/b895dda4-58d0-40df-8fbd-c4d51cf7de14)
-![Screenshot 2023-09-26 161409](https://github.com/Roveri91/PONG-Game/assets/105217392/25a01998-04ed-4608-9a74-2588872baebb)
 ![Screenshot 2023-09-26 161356](https://github.com/Roveri91/PONG-Game/assets/105217392/11991816-66f8-4cd3-a43e-b237621d5da0)
+![Screenshot 2023-09-26 161409](https://github.com/Roveri91/PONG-Game/assets/105217392/25a01998-04ed-4608-9a74-2588872baebb)
 ![Screenshot 2023-09-26 161423](https://github.com/Roveri91/PONG-Game/assets/105217392/181aec62-fd57-42f5-b3bc-e0f2921f3ea7)
 
 
@@ -38,7 +38,7 @@ App home: https://roveri91.github.io/PONG-Game/
 🗿 Created by:
 ---
 
-Simone Roveri,
+Simone Roveri
 
 💅 Contributing
 ---

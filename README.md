@@ -1,4 +1,4 @@
-👾 # PONG-Game
+👾 PONG-Game
 
 Feeling a bit nostalgic, I decided to create this PONG GAME.
 
@@ -24,6 +24,7 @@ P.S. GOAT LEVEL is practically impossible :)
 
 
 📕 Usage
+
 App home: https://roveri91.github.io/PONG-Game/
 
 🔨 Built With

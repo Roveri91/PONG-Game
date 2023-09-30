@@ -38,7 +38,7 @@ App home: https://roveri91.github.io/PONG-Game/
 🗿 Created by:
 ---
 
-Simone Roveri
+[Simone Roveri](https://www.linkedin.com/in/simone-roveri/)
 
 💅 Contributing
 ---
